@@ -1,7 +1,7 @@
 Bootstrap 3 Blog Theme for Wordpress
 ===================
 
-[<i class="icon-link"></i>Bootstrap 3 Blog Theme](http://getbootstrap.com/examples/blog/) one of the examples of Bootstrap v3.3.6 package. The theme purely integrated to wordpress without any change. Hope it helps the lovers of BS :)
+[<i class="icon-link"></i>Bootstrap 3 Blog Theme](https://getbootstrap.com/docs/3.4/examples/blog/) one of the examples of Bootstrap v3.3.6 package. The theme purely integrated to wordpress without any change. Hope it helps the lovers of BS :)
 
 Details
 -------------
